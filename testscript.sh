@@ -2,4 +2,6 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This was git learning with jenkins and DevOps"
+echo "Step 1 startring..."
+echo "Step 2 starting..."
+echo "Step 3 starting..."
